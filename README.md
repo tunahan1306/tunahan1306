@@ -26,4 +26,4 @@ I love learning, math, literature and software.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafakoca99&show_icons=true&locale=tr&layout=compact" alt="mustafakoca99" /></p>
 
-![Github stats 1]([https://github-readme-stats.vercel.app/api?username=mustafakoca99&show_icons=true&theme=gradient](https://github-readme-stats.vercel.app/api/top-langs/?username=tunahan1306&langs_count=8))
+![Github stats 1](https://github-readme-stats.vercel.app/api/top-langs/?username=tunahan1306&langs_count=8)
