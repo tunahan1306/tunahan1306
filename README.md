@@ -24,6 +24,6 @@ I love learning, math, literature and software.
 - 🤔 youtube: [MustafaKocaYoutube](https://www.youtube.com/channel/UCEOgptjepYwXTh1wtBlwVgA)
 - 📫 Forex Free Signal: [KAHIN_SIGNAL_SOFTWARE](https://t.me/KahinFreeSignals)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tunahan1306&show_icons=true&theme=gradient&locale=tr&theme=dark" alt="tunahan1306" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tunahan1306&show_icons=true&theme=tokyonight&locale=tr" alt="tunahan1306" /></p>
 
-![Github stats 1](https://github-readme-stats.vercel.app/api/top-langs/?username=tunahan1306&langs_count=8&locale=tr&theme=dark)
+![Github stats 1](https://github-readme-stats.vercel.app/api/top-langs/?username=tunahan1306&langs_count=8&locale=tr&theme=tokyonight)
