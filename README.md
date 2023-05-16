@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React and Laravel**
 
-- 📫 How to reach me **admin@tunahancakir.com**
+- 📫 How to reach me **info@tunahancakir.com**
 
 - 📄 Know about my experiences [http://tunahancakir.com/projects](http://tunahancakir.com/projects)
 
