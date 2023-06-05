@@ -1,9 +1,7 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"> Hi ,  I'm Tunahan Çakır</h1>
-<h3 align="center">A passionate React & Laravel Fullstack developer from Turkey</h3>
+<h3 align="center">Software Developer || Asp.Net || React || Angular || Laravel || Javascript || Php || C || C# || Python || Javay</h3>
 
 <br />
-
-- 🌱 I’m currently learning **Laravel Framework and React Native**
 
 - 👨‍💻 All of my projects are available at [http://tunahancakir.com/](http://tunahancakir.com/)
 
