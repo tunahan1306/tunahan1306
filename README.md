@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"> Hi ,  I'm Tunahan Çakır</h1>
-<h3 align="center">Software Developer || Asp.Net || React || Angular || Laravel || Javascript || Php || C || C# || Python || Javay</h3>
+<h3 align="center">Software Developer || Asp.Net || React || Angular || Laravel || Javascript || Php || C || C# || Python || Java</h3>
 
 <br />
 
